@@ -1,10 +1,10 @@
-# Biodata saya, iqbal ferizal
+# Biodata saya, Makhluk bumi
 
 nama = "makhluk hidup"
 sekolah = "Bumi"
-kelas = 10
+kelas = Omnivora
 jurusan = "IPA"
-rombel = 7
+rombel = 001
 umur = 199
 alamat = "Jalan Umum Nomor 01"
 
